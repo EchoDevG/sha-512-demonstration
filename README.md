@@ -1,2 +1,3 @@
 # sha-512-demonstration
-literally just a demo of sha-512
+
+a demo of the sha-512 encryption, a small project to help teach my peers about hashing.
